@@ -21,6 +21,7 @@
 *.zip
 *.mp3
 *.wav
+*.aif
  
 # Logs and databases #
 ######################
@@ -42,6 +43,7 @@ Thumbs.db
 #################
 .mp3
 .wav
+.aif
 
 # ignore generated ableton  cfg files,
     *.cfg
