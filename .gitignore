@@ -46,4 +46,4 @@ Thumbs.db
 .aif
 
 # ignore generated ableton  cfg files,
-    *.cfg
+*.cfg
