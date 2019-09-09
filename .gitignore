@@ -20,8 +20,6 @@
 *.tar
 *.zip
 *.mp3
-*.wav
-*.aif
  
 # Logs and databases #
 ######################
